@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Flutter,Dart,Php,Wordpress,Figma
 - 🌱 I’m currently learning ...Kotlin,Swift,React Native
 - 📫 How to reach me ... 📧jithin6904@gmail.com
-                          📞9567760406
+                          📞+1 437-989-2406
 
 
 <!---
