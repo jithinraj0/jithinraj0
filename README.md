@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jithinraj0
-- 👀 I’m interested in ...Flutter,Dart,Php,Wordpress,Figma
-- 🌱 I’m currently learning ...Kotlin,Swift,React Native
+- 👀 I’m interested in ...Kotlin,Flutter,Dart,Php,Wordpress,Figma
+- 🌱 I’m currently learning ...Swift,React Native
 - 📫 How to reach me ... 📧jithin6904@gmail.com
                           📞+1 437-989-2406
 
