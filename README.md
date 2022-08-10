@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jithinraj0
+- 👋 Hi, I’m Jithin Raj,a mobile app developer. 
 - 👀 I’m interested in ...Kotlin,Flutter,Dart,Php,Wordpress,Figma
 - 🌱 I’m currently learning ...Swift,React Native
 - 📫 How to reach me ... 📧jithin6904@gmail.com
